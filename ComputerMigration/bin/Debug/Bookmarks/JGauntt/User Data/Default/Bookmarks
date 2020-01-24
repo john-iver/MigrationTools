@@ -1,0 +1,93 @@
+{
+   "checksum": "ac47e0f46680b959173458c0e46c8e46",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13158180233333576",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13180658754420026"
+            },
+            "name": "KACE",
+            "type": "url",
+            "url": "https://kbox.tmcc.edu/admin"
+         }, {
+            "date_added": "13158180295982796",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13181248969415295"
+            },
+            "name": "Workday",
+            "type": "url",
+            "url": "https://www.myworkday.com/nshe/d/home.htmld"
+         }, {
+            "date_added": "13158184223566483",
+            "id": "7",
+            "meta_info": {
+               "last_visited_desktop": "13177523979707389"
+            },
+            "name": "25Live",
+            "type": "url",
+            "url": "https://25live.collegenet.com/tmcc/"
+         }, {
+            "date_added": "13158272328051514",
+            "id": "10",
+            "meta_info": {
+               "last_visited_desktop": "13181248986910707"
+            },
+            "name": "FootPrints",
+            "type": "url",
+            "url": "https://support.tmcc.edu/"
+         }, {
+            "date_added": "13158348726468832",
+            "id": "12",
+            "meta_info": {
+               "last_visited_desktop": "13170194513815749"
+            },
+            "name": "RED MAP",
+            "type": "url",
+            "url": "http://www.tmcc.edu/media/tmcc/departments/about/documents/maps/maps-dandini-rdmt.pdf"
+         }, {
+            "date_added": "13161207637773479",
+            "id": "14",
+            "meta_info": {
+               "last_visited_desktop": "13181249108704823"
+            },
+            "name": "Dashboard",
+            "type": "url",
+            "url": "https://tmcc.instructure.com/"
+         }, {
+            "date_added": "13164243775156909",
+            "id": "16",
+            "meta_info": {
+               "last_visited_desktop": "13164244015851297"
+            },
+            "name": "Sending Things to a Printer in Python | Chron.com",
+            "type": "url",
+            "url": "http://smallbusiness.chron.com/sending-things-printer-python-58655.html"
+         } ],
+         "date_added": "13158179886831406",
+         "date_modified": "13164243775156909",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13158179886831409",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13158179886831410",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
